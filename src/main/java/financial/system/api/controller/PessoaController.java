@@ -4,7 +4,6 @@ import financial.system.api.domain.pessoa.*;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.web.util.UriComponentsBuilder;
-import sistema.financeiro.api.domain.pessoa.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.web.PageableDefault;
 import org.springframework.http.ResponseEntity;
